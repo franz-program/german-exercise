@@ -1,0 +1,15 @@
+FIRST,AN,AD,AG,AA,PI,PPD,PPA,PRD,PRA,AP,IRR
+proprieta,order,order,order,order,no order,order,order,order,order,order,no order
+descrizione,articoli nominativo,articoli dativo,articoli genitivo,articoli accusativo,prefissi inseparabili,pronomi personali dativo,pronomi personali accusativo,pronomi riflessivi dativo,pronomi riflessivi accusativo,aggettivi possessivi,comparativi irregolari
+id,AN,AD,AG,AA,PI,PPD,PPA,PRD,PRA,AP,IRR
+priorita,1,1,1,1,2,2,2,2,2,2,3
+tentativi,4,7,9,6,6,10,13,6,3,6,0
+errori,0,1,2,1,1,4,6,2,0,0,0
+inizio,der,dem,des,den,miss,mir,mich,mir,mich,mein,lang
+,die,der,der,die,emp,dir,dich,dir,dich,dein,kurz
+,das,dem,des,das,ent,ihm,ihn,sich,sich,sein,warm
+,die,den,der,die,be,ihr,sie,sich,sich,ihr,kalt
+,,,,,ge,ihm,es,sich,sich,sein,alt
+,,,,,er,uns,uns,uns,uns,unser,stark
+,,,,,ver,euch,euch,euch,euch,euer,groß
+,,,,,zer,ihnen,sie,sich,sich,ihr,

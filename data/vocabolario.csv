@@ -1,0 +1,315 @@
+italiano,tedesco,precisazione italiano,precisazione tedesco,tipo,priorita,casi retti,prateritum,perfekt,tipo di frase,plurale,tentativi da italiano a tedesco,errori da italiano a tedesco,tentativi da tedesco a italiano,errori da tedesco a italiano
+poco,wenige,,,IMP,1,,,,,,0,0,0,0
+un po’ di,ein paar,,,IMP,2,,,,,,0,0,0,0
+un po’ di,ein bisschen,,,IMP,2,,,,,,0,0,0,0
+abbastanza,genug,,,IMP,2,,,,,,0,0,0,0
+molto,viele,,,IMP,1,,,,,,0,0,0,0
+troppo,zu,,,IMP,1,,,,,,0,0,0,0
+nessuno,niemand,,,IMP,2,,,,,,0,0,0,0
+nessuno,keiner,,,IMP,2,,,,,,0,0,0,0
+alcuni,manche,alcuni specifici,,IMP,3,,,,,,0,0,0,0
+qualcuno,jemand,,,IMP,2,,,,,,0,0,0,0
+qualcuno,irgendjemand,,,IMP,2,,,,,,0,0,0,0
+tutti,alle,,,IMP,2,,,,,,0,0,0,0
+tutti,jeder,,,IMP,2,,,,,,0,0,0,0
+niente,nichts,,,IMP,1,,,,,,0,0,0,0
+qualcosa,etwas,,,IMP,1,,,,,,0,0,0,0
+tutto,alles,,,IMP,2,,,,,,0,0,0,0
+da nessuna parte,nirgendwo,,,IMP,1,,,,,,0,0,0,0
+da nessuna parte,nirgends,,,IMP,1,,,,,,0,0,0,0
+da qualche parte,irgendwo,,,IMP,1,,,,,,0,0,0,0
+ovunque,überall,,,IMP,1,,,,,,0,0,0,0
+in qualche modo,irgendwie,,,IMP,1,,,,,,0,0,0,0
+ogni,jeder,,,IMP,2,,,,,,0,0,0,0
+entrambi,beide,,,IMP,3,,,,,,0,0,0,0
+quale,welche,,,IMP,2,,,,,,0,0,0,0
+solo,nur,,,IMP,1,,,,,,0,0,0,0
+la maggior parte,meiste,,,IMP,3,,,,,,0,0,0,0
+quasi,fast,,,IMP,3,,,,,,0,0,0,0
+senza,ohne,,,IMP,3,,,,,,0,0,0,0
+vero,wahr,,,A,1,,,,,,0,0,1,0
+vero,richtig,,,A,1,,,,,,0,0,1,0
+grande,groß,,,A,1,,,,,,1,0,2,0
+piccolo,klein,,,A,1,,,,,,0,0,2,0
+male,schlecht,,,A,1,,,,,,0,0,2,0
+vecchio,alt,,,A,1,,,,,,0,0,1,0
+disponibile,erhältlich,,,A,2,,,,,,0,0,0,0
+difficile,schwer,,,A,1,,,,,,0,0,0,0
+facile,einfach,,,A,1,,,,,,0,0,0,0
+lento,langsam,,,A,1,,,,,,0,0,0,0
+veloce,schnell,,,A,1,,,,,,0,0,0,0
+lungo,lange,,,A,1,,,,,,0,0,0,0
+corto,kurz,,,A,1,,,,,,0,0,0,0
+male,schlect,,,A,1,,,,,,0,0,0,0
+bene,gut,,,A,1,,,,,,0,0,0,0
+importante,wichtig,,,A,1,,,,,,0,0,0,0
+nuovo,neu,,,A,1,,,,,,0,0,0,0
+vecchio,alt,,,A,1,,,,,,0,0,0,0
+falso,falsch,,,A,1,,,,,,0,0,0,0
+sbagliato,falsch,,,A,1,,,,,,0,0,0,0
+pieno,voll,,,A,1,,,,,,0,0,0,0
+vuoto,leer,,,A,1,,,,,,0,0,0,0
+vuoto,alle,,,A,1,,,,,,0,0,0,0
+stanco,müde,,,A,1,,,,,,0,0,0,0
+felice,glücklich,,,A,1,,,,,,0,0,0,0
+triste,unglucklich,,,A,1,,,,,,0,0,0,0
+triste,traurig,,,A,1,,,,,,0,0,0,0
+arrabbiato,schlect drauf,,,A,1,,,,,,0,0,0,0
+preoccupato,unruhig,,,A,1,,,,,,0,0,0,0
+caldo,warm,,,A,1,,,,,,0,0,0,0
+caldo,heiß,,,A,1,,,,,,0,0,0,0
+freddo,kalt,,,A,1,,,,,,0,0,0,0
+freddo,kuhl,,,A,1,,,,,,0,0,0,0
+sinistra,linke,,,A,1,,,,,,0,0,0,0
+destra,rechte,,,A,1,,,,,,0,0,0,0
+prossimo,nächste,,,A,1,,,,,,0,0,0,0
+precedente,vorherig,,,A,1,,,,,,0,0,0,0
+bianco,weiss,,,A,1,,,,,,0,0,0,0
+nero,schwarz,,,A,1,,,,,,0,0,0,0
+rosso,rot,,,A,1,,,,,,0,0,0,0
+ultimo,letzte,,,A,1,,,,,,0,0,0,0
+aperto,öffnen,,,A,1,,,,,,0,0,0,0
+chiuso,zu,,,A,1,,,,,,0,0,0,0
+migliore,besser,,,A,1,,,,,,0,0,0,0
+peggiore,schlimmer,,,A,1,,,,,,0,0,0,0
+il migliore,beste,,,A,1,,,,,,0,0,0,0
+il peggiore,schlimmste,,,A,1,,,,,,0,0,0,0
+dire,sagen,,,V,1,D,sagt,gesagt,,,9,2,7,1
+fare,machen,,,V,1,A,macht,gemacht,,,7,3,6,1
+vedere,sehen,,,V,1,A,sah,gesehen,,,11,4,4,2
+guardare,sehen,,,V,1,A,sah,gesehen,,,7,5,4,2
+trovare,finden,,,V,1,A,fand,gefunden,,,7,0,4,1
+prendere,nehmen,,,V,1,/,nahm,genommen,,,7,0,5,0
+parlare,sprechen,,,V,1,/,sprach,gesprochen,,,8,1,4,0
+avere bisogno,brauchen,,,V,1,A,braucht,gebraucht,,,7,0,5,2
+giocare,spielen,,,V,1,/,spielt,gespielt,,,8,0,3,0
+suonare,spielen,uno strumento,,V,1,/,spielt,gespielt,,,9,0,2,0
+lavorare,arbeiten,,,V,1,/,arbeitet,gearbeitet,,,7,0,5,1
+comprare,kaufen,,,V,1,/,kauft,gekauft,,,9,2,5,1
+bere,trinken,,,V,1,/,trank,getrunken,,,7,0,3,0
+mangiare,essen,,,V,1,/,aß,gegessen,,,7,0,4,0
+studiare,lernen,,,V,1,/,lernt,gelernt,,,8,3,4,1
+studiare,studieren,,,V,1,/,studiert,studiert,,,8,3,4,0
+imparare,lernen,,,V,1,/,lernt,gelernt,,,12,0,4,1
+ripetere,wiederholen,,,V,1,/,wiederholt,wiederholt,,,9,0,5,0
+capire,verstehen,,,V,1,A,verstand,verstanden,,,8,0,4,0
+tradurre,übersetzen,,,V,1,/,übersetzt,übersetzt,,,6,1,3,0
+vivere,leben,una vita,,V,1,/,lebt,gelebt,,,11,1,5,0
+c'e',es gibt,,,V,1,A,es gab,es hat gegeben,,,10,1,3,0
+dare,geben,,,V,1,D,gab,gegeben,,,7,0,4,2
+avere,haben,,,V,1,/,hatt,gehabt,,,7,0,4,1
+cercare,suchen,,,V,1,A,sucht,gesucht,,,8,0,4,0
+sapere,wissen,,,V,1,/,wusst,gewusst,,,7,0,4,0
+volere,wollen,,,V,1,A,wollt,gewollt,,,7,1,4,1
+dovere,müssen,,,V,1,/,musst,/,,,7,1,4,0
+rimanere,bleiben,,,V,1,/,blieb,geblieben,,,7,0,3,1
+piacere,mögen,,,V,1,A,mögt,gemocht,,,11,2,5,1
+risiedere,wohnen,,,V,1,/,wohnt,gewohnt,,,7,1,4,1
+essere abituato,sein gewohnt,,,V,1,A,/,/,,,7,2,4,2
+essere,sein,,,V,1,A,war,gewesen,,,9,0,4,0
+guardare,schauen,,,V,1,A,schaut,geschaut,,,7,5,3,0
+ascoltare,hören,,,V,1,A,hört,gehört,,,7,2,4,3
+pagare,zahlen,,,V,1,/,zahlt,gezahlt,,,7,0,4,1
+amare,lieben,,,V,1,A,liebt,geliebt,,,7,0,5,0
+odiare,hassen,,,V,1,A,hasst,gehasst,,,8,1,5,1
+dormire,schlafen,,,V,1,/,schlief,geschlafen,,,7,0,4,1
+leggere,lesen,,,V,1,/,las,gelesen,,,9,0,6,1
+scrivere,schreiben,,,V,1,D,schrieb,geschrieben,,,12,1,4,1
+dimenticare,vergessen,,,V,1,A,vergaß,vergessen,,,8,0,4,0
+scegliere,wählen,,,V,1,A,wählt,gewählt,,,8,3,6,1
+augurare,wünschen,,,V,1,D,wünscht,gewünscht,,,9,1,5,1
+stare in piedi,stehen,,,V,1,/,stand,gestanden,,,8,1,3,0
+venire,kommen,,,V,1,/,kam,gekommen,,,8,0,3,0
+ricordare,erinnern,,,V,2,A,erinnert,erinnert,,,4,0,5,0
+spingere,drücken,,,V,2,A,drückt,gedrückt,,,5,1,4,2
+afferrare,halten,,,V,2,A,hielt,gehalten,,,5,0,4,4
+catturare,halten,,,V,2,A,hielt,gehalten,,,5,1,4,4
+fermare,halten,,,V,2,A,hielt,gehalten,,,4,0,4,4
+spiegare,erklären,,,V,2,A,erklärt,erklärt,,,4,1,3,1
+appartenere,gehören,,,V,2,D,gehört,gehört,,,5,1,4,2
+conoscere,kennen,,,V,2,A,kannt,gekannt,,,10,6,4,2
+sembrare,wirken,,,V,2,/,wirkt,gewirkt,,,10,6,4,1
+sembrare,vorkommen,,,V,2,/,kam vor,vorgekommen,,,10,6,4,2
+chiudere,zumachen,,,V,2,/,macht zu,zugemacht,,,6,1,4,1
+chiudere,schließen,,,V,2,/,schloss,geschlossen,,,6,1,4,0
+diventare,werden,,,V,2,/,wurd,geworden,,,6,2,4,1
+incontrare,treffen,,,V,2,A,traf,getroffen,,,6,0,3,3
+iniziare,anfangen,,,V,2,/,fing an,angefangen,,,5,1,4,1
+guardare,ansehen,,,V,2,A,sah an,angesehen,,,7,5,4,1
+iniziare,beginnen,,,V,2,/,begann,begonnen,,,5,1,4,1
+portare,bringen,,,V,2,/,bracht,gebracht,,,5,1,4,0
+succedere,passieren,,,V,2,A,/,/,,,5,1,3,1
+aiutare,helfen,,,V,2,D,half,geholfen,,,6,0,4,3
+perdere,verlieren,,,V,2,/,verlor,verloren,,,6,1,4,2
+fare,tun,,,V,2,/,tat,getan,,,7,3,4,1
+significare,heißen,,,V,2,/,hieß,geheißen,,,9,7,4,1
+significare,bedeuten,,,V,2,/,bedeutet,bedeuten,,,9,7,4,4
+prenotare,reservieren,,,V,2,/,reserviert,reserviert,,,6,1,3,1
+pensare,denken,,,V,2,/,dacht,gedacht,,,5,0,4,0
+aspettare,aufwarten,,,V,2,A,wartet auf,aufgewartet,,,5,2,4,2
+andare,fahren,,,V,2,/,fuhr,gefahren,,,6,3,4,3
+andare,gehen,,,V,1,/,ging,gegangen,,,6,3,3,0
+credere,glauben,,,V,3,D,glaubt,geglaubt,,,3,0,2,2
+arrivare,ankommen,,,V,3,/,kam an,angekommen,,,6,2,2,0
+usare,benutzen,,,V,3,/,benutzt,benutzt,,,3,0,2,0
+ricevere,bekommen,,,V,3,/,bekam,bekommen,,,5,3,2,0
+rispondere a,antworten auf,,,V,3,D,antwortet auf,geantwortet,,,4,2,2,2
+ordinare,bestellen,,,V,4,/,bestellt,bestellt,,,4,1,2,0
+indossare,tragen,,,V,4,/,trug,getragen,,,4,0,2,0
+sedersi,sitzen,,,V,4,/,saß,gesessen,,,5,4,2,1
+sedersi,setzen,,,V,4,/,setzt,gesetzt,,,5,4,2,1
+pulire,säubern,,,V,4,/,säubert,gesäubert,,,4,2,2,0
+aggiungere,hinzufügen,,,V,4,/,fügt hinzu,hinzugefügt,,,4,0,2,0
+rompere,kaputt machen,,,V,4,/,/,/,,,4,2,2,0
+rimuovere,entfernen,,,V,4,/,entfernt,entfernt,,,4,2,2,1
+inviare,schicken,,,V,4,D,schickt,geschickt,,,4,1,2,1
+cambiare,ändern,,,V,4,/,ändert,geändert,,,2,0,1,0
+essere d’accordo,zustimmen,,,V,4,D,stimmt zu,zugestimmt,,,2,0,1,0
+migliorare,verbessern,,,V,4,/,verbessert,verbessert,,,2,0,0,0
+peggiorare,verschlechtern,,,V,4,/,verschlechtert,verschlechtert,,,2,1,0,0
+ieri,gestern,,,ADV,1,,,,,,2,0,0,0
+l'altro ieri,vorgestern,,,ADV,1,,,,,,2,0,0,0
+oggi,heute,,,ADV,1,,,,,,2,0,0,0
+domani,morgen,,,ADV,1,,,,,,2,0,0,0
+dopodomani,übermorgen,,,ADV,1,,,,,,2,0,0,0
+adesso,jetzt,,,ADV,1,,,,,,2,1,0,0
+qui,heir,,,ADV,1,,,,,,3,2,0,0
+la',dort,,,ADV,1,,,,,,2,0,0,0
+dentro,drinnen,,,ADV,2,,,,,,2,0,0,0
+fuori,draußen,,,ADV,2,,,,,,3,2,0,0
+via,weg,non qui,,ADV,3,,,,,,3,0,0,0
+sotto,unter,,,ADV,1,,,,,,2,0,0,0
+sopra,über,,,ADV,1,,,,,,2,0,0,0
+di fronte,vor,,,ADV,3,,,,,,3,0,0,0
+dietro,hinter,,,ADV,3,,,,,,3,0,0,0
+sempre,immer,,,ADV,2,,,,,,2,0,0,0
+mai,nie,,,ADV,2,,,,,,3,1,0,0
+mai,noch nie,,,ADV,2,,,,,,3,1,0,0
+di solito,normalerweise,,,ADV,3,,,,,,3,1,0,0
+di solito,gewöhnlich,,,ADV,3,,,,,,3,1,0,0
+raramente,selten,,,ADV,2,,,,,,3,1,0,0
+spesso,oft,,,ADV,2,,,,,,4,2,0,0
+spesso,häufig,,,ADV,2,,,,,,4,2,0,0
+qualche volta,manchmal,,,ADV,2,,,,,,2,0,0,0
+quotidianamente,täglich,,,ADV,3,,,,,,3,0,0,0
+davvero,wirklich,,,ADV,2,,,,,,4,4,0,0
+veramente,echt,,,ADV,2,,,,,,2,0,0,0
+certamente,natürlich,,,ADV,2,,,,,,3,3,0,0
+gia',schon mal,,,ADV,3,,,,,,3,2,0,0
+di nuovo,wieder,,,ADV,3,,,,,,3,3,0,0
+di nuovo,noch einmal,,,ADV,3,,,,,,3,3,0,0
+anche,auch,,,ADV,1,,,,,,3,3,0,0
+inoltre,außerdem,,,ADV,3,,,,,,4,3,0,0
+presto,bald,,,ADV,2,,,,,,2,0,0,0
+piu',mehr,,,ADV,3,,,,,,3,0,0,0
+meno,kleiner,,,ADV,3,,,,,,3,2,0,0
+meno,weniger,,,ADV,3,,,,,,3,2,0,0
+forse,vielleicht,,,ADV,3,,,,,,3,0,0,0
+sicuramente,bestimmt,,,ADV,3,,,,,,3,2,0,0
+sicuramente,sicherlich,,,ADV,3,,,,,,3,2,0,0
+probabilmente,wahrscheinlich,,,ADV,3,,,,,,3,2,0,0
+fortunatamente,zum Glück,,,ADV,2,,,,,,2,0,0,0
+finito,vorbei,,,ADV,4,,,,,,1,0,0,0
+improvvisamente,plötzlich,,,ADV,4,,,,,,1,0,0,0
+giorno,der Tag,,,N,1,,,,,Tagen,1,0,0,0
+settimana,die Woche,,,N,1,,,,,Wochen,1,1,0,0
+mese,der Monat,,,N,1,,,,,Monaten,1,1,0,0
+anno,das Jahr,,,N,1,,,,,Jahren,1,0,0,0
+universita',die Universität,,,N,1,,,,,Universitäten,2,1,2,1
+padre,der Vater,,,N,1,,,,,Väter,1,0,2,0
+tavolo,der Tisch,,,N,1,,,,,Tische,1,0,0,0
+palla,der Ball,,,N,1,,,,,Bälle,1,1,0,0
+quaderno,das Arbeitsbuch,,,N,1,,,,,/,1,1,0,0
+libro,das Buch,,,N,1,,,,,Bücher,1,0,0,0
+tempo,die Zeit,quarta dimensione,,N,1,,,,,/,1,0,0,0
+volta,der Mal,,,N,1,,,,,Male,1,1,0,0
+forbici,die Schere,,,N,1,,,,,/,1,1,0,0
+supermercato,der Supermarkt,,,N,1,,,,,Supermärkte,1,0,0,0
+frutta,die Fucht,,,N,1,,,,,Früchte,1,1,0,0
+verdura,das Gemüse,,,N,1,,,,,Gemüse,1,0,0,0
+carne,der Fleisch,,,N,1,,,,,/,1,1,0,0
+pesce,der Fisch,,,N,1,,,,,Fische,1,0,0,0
+maestro,der Lehrer,,,N,1,,,,,Lehrer,1,1,0,0
+tempo atmosferico,der Wetter,,,N,1,,,,,/,1,1,0,0
+casa,der Haus,,,N,1,,,,,Häuser,1,1,0,0
+sedia,der Stuhl,,,N,1,,,,,Stühle,1,0,0,0
+maglia,der Hemd,,,N,1,,,,,Hemden,1,1,0,0
+pantaloni,die Hose,,,N,1,,,,,Hosen,1,0,0,0
+letto,der Bett,,,N,1,,,,,Betten,1,1,0,0
+sole,die Sonne,,,N,1,,,,,/,1,0,0,0
+luna,der Mond,,,N,1,,,,,/,1,0,0,0
+persona,die Person,,,N,1,,,,,Personen,1,0,0,0
+persone,Personen,,,N,1,,,,,/,1,1,0,0
+persone,Menschen,,,N,1,,,,,/,1,1,0,0
+persone,Leute,,,N,1,,,,,/,1,1,0,0
+treno,der Zug,,,N,1,,,,,Züge,1,0,0,0
+scarpe,Schuhe,,,N,1,,,,,/,1,1,0,0
+tram,die Tram,,,N,1,,,,,Trams,1,1,0,0
+tram,die Straßenbahn,,,N,1,,,,,Straßenbahnen,1,1,0,0
+distretto,die Stadtteil,,,N,1,,,,,Stadtteile,1,1,0,0
+studente,der Student,,,N,1,,,,,Studenten,1,0,0,0
+televisione,das Fernsehen,,,N,2,,,,,/,1,1,0,0
+televisore,der Fernseher,,,N,2,,,,,Fernsehgeräte,1,1,0,0
+penna,der Stift,,,N,1,,,,,Stifte,1,1,0,0
+penna,der Füller,,,N,1,,,,,/,1,1,0,0
+vestito,das Kleid,,,N,1,,,,,Kleider,1,1,0,0
+colore,die Farbe,,,N,1,,,,,Farben,1,0,0,0
+cane,der Hund,,,N,1,,,,,Hunde,1,0,0,0
+gatto,die Katze,,,N,1,,,,,Katzen,1,0,0,0
+animale,der Tier,,,N,1,,,,,Tiere,1,1,0,0
+numero,die Zahl,,,N,1,,,,,Zahlen,1,1,0,0
+cosa,das Ding,oggetto imprecisato,,N,1,,,,,Dinge,1,1,0,0
+porta,die Tür,,,N,1,,,,,Türen,1,0,0,0
+finestra,das Fenster,,,N,1,,,,,Fenster,1,0,0,0
+nome,der Name,,,N,1,,,,,Namen,1,1,0,0
+cognome,der Nachname,,,N,1,,,,,Nachnamen,1,1,0,0
+cibo,das Essen,,,N,2,,,,,/,1,0,0,0
+bicchiere,das Glas,,,N,2,,,,,Gläser,1,1,0,0
+piatto,der Teller,,,N,2,,,,,Teller,1,0,0,0
+problema,das Problem,,,N,2,,,,,Probleme,1,0,0,0
+ora,die Stunde,intervallo di tempo,,N,2,,,,,Stunden,1,0,0,0
+notte,die Nacht,,,N,1,,,,,Nächte,1,0,0,0
+stato,das Land,nazione,,N,2,,,,,Länder,1,1,0,0
+domanda,die Frage,,,N,2,,,,,Fragen,1,1,0,0
+menu,die Speisekarte,,,N,2,,,,,/,1,1,0,0
+ecco a te,los geht's,,,ESPR,1,,,,,,0,0,0,0
+peccato,schade,,,ESPR,1,,,,,,2,0,0,0
+peccato,zu schade,,,ESPR,1,,,,,,2,1,0,0
+come va?,wie geht es dir?,,,ESPR,1,,,,,,0,0,0,0
+nessun problema,kein Problem,,,ESPR,1,,,,,,0,0,0,0
+ci vediamo dopo,bis bald,,,ESPR,1,,,,,,0,0,0,0
+ci vediamo dopo,bis später,,,ESPR,1,,,,,,0,0,0,0
+tutto apposto,all right,,,ESPR,1,,,,,,0,0,0,0
+grazie lo stesso,trozdem danke,,,ESPR,1,,,,,,0,0,0,0
+non e’ necessario,müssen nicht,,,ESPR,2,,,,,,0,0,0,0
+non devi,dürfen nicht,,,ESPR,2,,,,,,0,0,0,0
+anche io,Ich auch,,,G,1,,,,,,1,1,0,0
+neanch'io,Ich auch nicht,,,G,1,,,,,,1,1,0,0
+fra tre giorni,in drei Tagen,,,G,2,,,,,,1,1,0,0
+tre giorni fa,vor drei Tagen,,,G,2,,,,,,1,0,0,0
+vado la’ il 3 ottobre,Ich gehe am 3 Oktober dort ,,,G,2,,,,,,1,1,0,0
+vado la’ alle 18,Ich gehe um 18 Uhr dort,,,G,2,,,,,,1,1,0,0
+dopo vado al supermercato,Ich gehe später zum Supermarkt,,,G,2,,,,,,1,1,0,0
+sono piu’ veloce di lui,Ich bin schneller als er,,,G,2,,,,,,1,1,0,0
+sono meno veloce di lui,Ich bin weniger schnell als er,,,G,2,,,,,,1,1,0,0
+sono veloce come lui,Ich bin so schnell wie er,,,G,2,,,,,,1,1,0,0
+sono veloce come lui,Ich bin genauso schnell wie er,,,G,2,,,,,,1,1,0,0
+lei e’ la persona piu’ veloce,Sie ist die schnellste Person,,,G,3,,,,,,0,0,0,0
+questa persona e’ la piu’ veloce,Diese Person is am schnellsten,,,G,3,,,,,,0,0,0,0
+ma,aber,,,CONG,1,,,,,,0,0,0,0
+e,und,,,CONG,1,,,,,,0,0,0,0
+o,oder,,,CONG,1,,,,,,0,0,0,0
+perche’,warum,interrogativo,,CONG,1,,,,,,0,0,0,0
+perche’,wieso,interrogativo,,CONG,1,,,,,,0,0,0,0
+perche’ ,weil,affermativo,,CONG,1,,,,,,0,0,0,0
+che,dass,,,CONG,1,,,,,,0,0,0,0
+quindi,also,,,CONG,2,,,,,,0,0,0,0
+quindi,deshalb,,,CONG,2,,,,,,0,0,0,0
+ma,doch,,,CONG,3,,,,,,0,0,0,0
+anche se,obwohl,,,CONG,3,,,,,,0,0,0,0
+mentre,während,,,CONG,3,,,,,,0,0,0,0
+in modo che,damit,,,CONG,3,,,,,,0,0,0,0
+inoltre,außerdem,,,CONG,3,,,,,,0,0,0,0
+in qualsiasi momento,jederzeit,,,CONG,3,,,,,,0,0,0,0
+either ... or,entweder oder,,,CONG,3,,,,,,0,0,0,0
+neither … nor,weder ... noch,,,CONG,3,,,,,,0,0,0,0

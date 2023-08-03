@@ -1,0 +1,23 @@
+verbo,tipo,ich,du,"er, sie, es",wir,ihr,sie,priorita,tentativi,errori
+sein,P,bin,bist,ist,sind,sein,sind,1,1.0,
+haben,P,habe,hast,hat,haben,hat,haben,1,2,1
+konnen,P,kann,kannst,kann,konnen,konnt,konnen,2,1,0
+durfen,P,darf,darfst,darf,durfen,durft,durfen,2,1,0
+wollen,P,will,willst,will,wollen,wollt,wollen,2,1,0
+mogen,P,mag,magst,mag,mogen,mogt,mogen,2,1,0
+mussen,P,muss,musst,muss,mussen,musst,mussen,2,1,0
+sollen,P,soll,sollst,soll,sollen,sollt,sollen,2,2,2
+werden,P,werde,wirst,wird,werden,werdet,werden,2,1,0
+wissen,P,weiß,weißt,weiß,wissen,wisst,wissen,2,1,1
+nehmen,P,nehme,nimmst,nimmt,nehmen,nehmt,nehmen,3,1,1
+geben,P,gebe,gibst,gibt,geben,gebt,geben,3,1,0
+tun,P,tue,tust,tut,tun,tut,tun,3,1,0
+sein,I,war,warst,war,waren,wart,waren,1,0,0
+haben,I,hatte,hattest,hatte,hatten,hattet,hatten,1,0,0
+konnen,I,konnte,konntest,konnte,konnten,konnten,konnten,1,0,0
+wollen,I,wollte,wolltest,wollte,wollten,wolltet,wollten,1,0,0
+verstehen,I,verstand,verstandest,verstand,verstanden,verstandet,verstanden,1,0,0
+wissen,I,wusste,wusstest,wusste,wussten,wusstet,wussten,1,0,0
+denken,I,dachte,dachtest,dachte,dachten,dachtet,dachten,1,0,0
+mussen,I,musste,musstest,musste,mussten,mustet,mussten,1,0,0
+sehen,I,sah,sahst,sah,sahen,saht,sahen,1,0,0
